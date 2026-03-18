@@ -34,13 +34,4 @@ Para mostrar todas las tarjetas, se utilizó un ListView dentro de un Expanded, 
 
 En conjunto, el proyecto integra elementos visuales como degradados, sombras, bordes redondeados, distribución estructurada de contenido e imágenes externas, logrando una interfaz organizada, clara y visualmente atractiva.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1223" height="802" alt="image" src="https://github.com/user-attachments/assets/e4c86e1f-b7c0-4278-92c0-687afa5f86ad" />
