@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## IAMoviles UII  Act 2 Tarjetas en columnas
+
 Este proyecto fue desarrollado en Flutter utilizando el lenguaje Dart, con el objetivo de crear una interfaz visual inspirada en un sistema de categorías de una tienda en línea similar a Amazon.
 
 La aplicación consiste en una sola pantalla que presenta una lista vertical de tarjetas (cards), cada una representando una categoría distinta: Electrónica, Hogar, Ropa, Mascotas y Deportes.
